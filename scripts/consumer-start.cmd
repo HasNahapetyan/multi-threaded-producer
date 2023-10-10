@@ -1,0 +1,1 @@
+C:\server\confluent-7.5.0\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic multithreaded-topic --from-beginning
